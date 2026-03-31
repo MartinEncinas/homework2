@@ -4,6 +4,8 @@
 
 ## Tidy data
 
+##Including these annotations as an introduction of git, github workflow for question 12.5 
+
 # Values in column names 
 
 raw <- read.csv("data/pew.csv", check.names = F)
